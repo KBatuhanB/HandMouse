@@ -1,0 +1,25 @@
+# Hand Mouse - Gerekli Kütüphaneler
+# Görüntü İşleme ve El Algılama
+opencv-python>=4.8.0
+mediapipe>=0.10.8
+
+# Mouse ve Klavye Kontrolü
+pyautogui>=0.9.54
+pywin32>=305  # Windows için daha güvenilir mouse kontrolü
+pyperclip>=1.8.2  # Hızlı metin yapıştırma için clipboard
+
+# Ses Kontrolü
+pycaw>=20230407  # Windows ses kontrolü
+comtypes>=1.1.14  # pycaw dependency
+
+# Sesli Yazma
+SpeechRecognition>=3.10.0
+pyaudio>=0.2.13
+
+# GUI (Modern Arayüz)
+customtkinter>=5.2.0
+Pillow>=10.0.0
+
+# Yardımcı Kütüphaneler
+numpy>=1.24.0
+
