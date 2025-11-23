@@ -2,6 +2,8 @@
 
 > Natural hand-gesture driven control for mouse, media, volume and real‑time speech dictation. Built with Computer Vision (MediaPipe + OpenCV), a modern CustomTkinter GUI and system integration libraries. Designed as a portfolio / research style project showcasing practical multimodal interaction.
 
+https://www.youtube.com/watch?v=sYUPL4Bo9bo
+
 <p align="center">
     <img src="icon_preview.png" alt="HandMouse Icon" width="120" />
     <br>
